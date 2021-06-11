@@ -1,0 +1,35 @@
+.container
+{border:2px solid red; 
+    background-color:aqua;
+    display:flex;
+    flex-direction:row;
+    padding:20px;
+justify-content:center;
+
+}  
+
+/* 
+h2{
+    position: absolute;
+    top: 330px;
+    left: 300px;
+} */
+
+div h4
+{
+    background-color:green;
+    padding: 10px;
+    border: 2px solid red;
+    border-radius:10px;
+   margin: 5px 20px;
+
+}
+div button
+{
+    background-color:rgb(145, 229, 145);
+    padding: 10px;
+    border: 2px solid red;
+    border-radius:10px;
+    
+
+}
